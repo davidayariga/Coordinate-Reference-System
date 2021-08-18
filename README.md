@@ -1,3 +1,2 @@
 # Geospatial Python
-Displaying Ghana Health facilties with Coordinate Reference System
-Conducting proximity analysis 
+This repository is dedicated to all tutorials and online MOOCS related to geospatial analysis
